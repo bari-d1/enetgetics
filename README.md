@@ -1,1 +1,1 @@
-# enetgetics
+# energetics
